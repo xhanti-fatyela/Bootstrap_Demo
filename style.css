@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#navbarNav {
+    color: black;
+    font-size: 20px;
+    font-style: bold;
+    justify-content: end;
+}
+
+.card {
+    padding: 30px;
+    margin: 20px;
+    border-radius: 40px;
+}
+
+.card-img-top {
+    width: 100px;
+    height: 250px;
+}
+
+.logo {
+    width: 70px;
+    cursor: pointer;
+}
