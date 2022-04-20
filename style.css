@@ -33,3 +33,8 @@
 .sitename {
     text-decoration: none;
 }
+
+.card-text {
+    height: 120px;
+    overflow: hidden;
+}
